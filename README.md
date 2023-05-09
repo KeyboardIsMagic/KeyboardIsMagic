@@ -4,7 +4,7 @@ Rocket
 Aspiring Scientist
 ------------------
 
-Interested in all things technology, passionate about AI , ML, and Outer Space :alien:. Enjoy creating and designing games, web/mobile applications, and solving complex problems.
+AI , ML, Outer Space :alien:. Enjoy creating and designing games, web/mobile applications, and solving complex problems.
 
 * 🌍  I'm based in Tacoma, WA
 * 🧠  I'm learning C#, and .NET MAUI
